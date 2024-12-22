@@ -1,4 +1,4 @@
 name: "Vanitas"
-formats: [ 42, 46 ]
+formats: [ 15, 18, 22, 32, 34, 42, 46 ]
 include: [ "LICENSE", "README.md" ]
 extensions: [ ".png", ".mcmeta", ".json" ]
