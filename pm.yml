@@ -1,4 +1,4 @@
-name: "Vanitas"
+name: "FlowFont"
 formats: [ 15, 18, 22, 32, 34, 42, 46 ]
 include: [ "LICENSE", "README.md" ]
 extensions: [ ".png", ".mcmeta", ".json" ]
