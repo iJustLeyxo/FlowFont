@@ -24,7 +24,7 @@ FlowFont is under development and will experience changes, aswell as bug fixes a
 ### Version Compatibility
 
 FlowFont is currently compatible with the following Minecraft Java Edition releases:
-- 1.21 ~ 1.21.3 (newest release and all subreleases)
+- 1.21 ~ 1.21.4 (newest release and all subreleases)
 - 1.20 ~ 1.20.6 (2nd newest release and all subreleases)
 
 (LTS = long term support)
