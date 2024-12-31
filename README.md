@@ -3,6 +3,11 @@
 FlowFont is a 32x font resource pack for [Minecraft](https://www.minecraft.net) Java Edition.
 
 
+### Contents
+
+This resourcepack replaces the vanilla font textures with smoother texture with twice the resolution. Please note that currently only basic and accented latin characters are included.
+
+
 ### Installation
 
 - You can install this resourcepack directly via the [CurseForge App](https://www.curseforge.com/download/app) or the [Modrinth App](https://modrinth.com/app).
@@ -34,11 +39,6 @@ Please note that some features are not available for all Minecraft Java Edition 
 While some versions of FlowFont may work with certain Minecraft Java Edition snapshots, please note that snapshots are generally not supported.
 
 FlowFont will always be upated to the newest two major Minecraft Java Edition releases and all subreleases, aswell as specific long term supported versions. Other version compatibility might be added upon request and when deemed beneficial to the project.
-
-
-### Contents
-
-This resourcepack replaces the vanilla font textures with smoother texture with twice the resolution. Please note that currently only basic latin characters are included.
 
 
 ### Mod Compatibility
