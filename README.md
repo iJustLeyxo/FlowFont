@@ -48,7 +48,7 @@ Generally, FlowFont is compatible with all mods that use the default minecraft f
 
 ### Affiliation Notice
 
-FlowFont is brough to you by all contributors to the FlowFont project.
+FlowFont is brought to you by all contributors to the FlowFont project.
 FlowFont is not official Minecraft content. FlowFont is not approved by or associated with Mojang or Microsoft.
 
 
